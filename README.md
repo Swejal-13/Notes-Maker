@@ -12,7 +12,6 @@ This app allows users to **add, view, and delete notes** easily with a clean UI.
 - 📋 View all saved notes
 - ⚡ Fast and responsive UI
 - 🔄 Real-time updates without page reload
-- 💾 (Optional) Local storage support
 
 ---
 
